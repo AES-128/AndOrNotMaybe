@@ -1,0 +1,3 @@
+bool_expr ::= term (OR term)*
+term ::= factor (AND factor)*
+factor ::= INPUT | LPAREN bool_expr RPAREN | NOT factor
