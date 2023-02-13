@@ -22,7 +22,3 @@ $ python and_or_not_maybe
 - AND: `&`
 - OR: `|`
 - NOT: `!` (unary operator)
-
-## License
-
-This program is open-source released under the GPLv3 license
